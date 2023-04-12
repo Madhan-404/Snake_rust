@@ -1,0 +1,11 @@
+/mnt/c/Users/madha/dev/Rust/snake/target/debug/deps/wayland_commons-0ba38094cea71b58.rmeta: /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/lib.rs /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/debug.rs /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/filter.rs /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/map.rs /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/socket.rs /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/user_data.rs /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/wire.rs
+
+/mnt/c/Users/madha/dev/Rust/snake/target/debug/deps/wayland_commons-0ba38094cea71b58.d: /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/lib.rs /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/debug.rs /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/filter.rs /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/map.rs /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/socket.rs /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/user_data.rs /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/wire.rs
+
+/home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/lib.rs:
+/home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/debug.rs:
+/home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/filter.rs:
+/home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/map.rs:
+/home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/socket.rs:
+/home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/user_data.rs:
+/home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-commons-0.29.5/src/wire.rs:

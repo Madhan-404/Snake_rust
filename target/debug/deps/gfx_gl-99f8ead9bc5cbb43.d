@@ -1,0 +1,8 @@
+/mnt/c/Users/madha/dev/Rust/snake/target/debug/deps/gfx_gl-99f8ead9bc5cbb43.rmeta: /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_gl-0.6.1/src/lib.rs /mnt/c/Users/madha/dev/Rust/snake/target/debug/build/gfx_gl-1a2bc30ea9f4a90d/out/gl_bindings.rs
+
+/mnt/c/Users/madha/dev/Rust/snake/target/debug/deps/gfx_gl-99f8ead9bc5cbb43.d: /home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_gl-0.6.1/src/lib.rs /mnt/c/Users/madha/dev/Rust/snake/target/debug/build/gfx_gl-1a2bc30ea9f4a90d/out/gl_bindings.rs
+
+/home/madha/.cargo/registry/src/github.com-1ecc6299db9ec823/gfx_gl-0.6.1/src/lib.rs:
+/mnt/c/Users/madha/dev/Rust/snake/target/debug/build/gfx_gl-1a2bc30ea9f4a90d/out/gl_bindings.rs:
+
+# env-dep:OUT_DIR=/mnt/c/Users/madha/dev/Rust/snake/target/debug/build/gfx_gl-1a2bc30ea9f4a90d/out
